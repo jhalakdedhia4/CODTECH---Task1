@@ -13,6 +13,7 @@
 **Task Trail - A Task Management Web App**
 
 **Overview**
+![a1q](https://github.com/user-attachments/assets/7f6e1421-4d96-4f4c-ade9-341425a8e68c)
 
 Task Trail is a sleek and intuitive task management application designed to help users efficiently organize and track their daily tasks. Built using Vite and React, it allows users to categorize, monitor progress, and manage tasks seamlessly. Its responsive design and user-friendly interface make it ideal for individuals and teams alike.
 ________________________________________
